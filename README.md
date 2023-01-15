@@ -13,7 +13,7 @@
 ```
 ___
 # Animechan
-A bash script serving quality anime quotes.
+A free restful [API](https://animechan.vercel.app/) serving quality anime quotes
 
 ## Table of Contents
 
@@ -24,11 +24,15 @@ A bash script serving quality anime quotes.
 
 ## Prerequisites
 - **cURL**: a command-line tool for transferring data using various protocols.
+  - `pkg install -y curl`
 - **jq**: a command-line JSON processor.
+  - `pkg install -y jq`
 - **figlet**: Program for making large letters out of ordinary text.
+  - `pkg install -y figlet`
 
 ## Usage
 ```bash
+# Running on Termux
 bash animechan.sh
 ```
 
