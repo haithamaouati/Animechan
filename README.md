@@ -16,8 +16,18 @@ A bash script serving quality anime quotes.
 ## Prerequisites
 - **cURL**: a command-line tool for transferring data using various protocols.
 - **jq**: a command-line JSON processor.
+- **figlet**: Program for making large letters out of ordinary text.
 
 ## Usage
 ```bash
-./anonfiles.sh -k API_KEY -f FILE_PATH [-h]
+bash animechan.sh
 ```
+
+## Author
+Made with :heart: by **Haitham Aouati**
+
+![](https://badgen.net/badge/icon/twitter?icon=twitter&label)
+![twitter](https://badgen.net/twitter/follow/haithamaouati)
+
+## License
+This project is released under the [Unlicense](https://github.com/haithamaouati/Quote/blob/main/LICENSE). This means that you are free to use, modify, and distribute the code as you see fit, without any restrictions.
